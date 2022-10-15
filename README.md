@@ -1,6 +1,10 @@
 # facebook_ui
 
-A new Flutter project.
+
+## facebook ui using flutter 
+# screenshots
+![](images/ui.jpg)
+
 
 ## Getting Started
 
